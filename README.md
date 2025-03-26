@@ -75,7 +75,3 @@ This project is a **Home Automation System** designed to enhance comfort and saf
 
 Feel free to fork this repository, submit issues, or create pull requests for improvements.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
