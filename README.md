@@ -40,7 +40,7 @@ This project is a **Home Automation System** designed to enhance comfort and saf
 
 ## Setup and Installation
 
-1. Connect the sensors and actuators to the Arduino as per the circuit diagram.
+1. Connect the sensors and actuators to the Arduino.
 2. Upload the provided code to the Arduino.
 3. Open the serial monitor to observe sensor readings and system status.
 4. Power the system and observe automation responses based on environmental conditions.
